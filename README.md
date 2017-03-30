@@ -1,2 +1,2 @@
 # tempeh
-Tempeh, the traditional soy product from Indonesia
+Tempeh, a traditional soy product from Indonesia
